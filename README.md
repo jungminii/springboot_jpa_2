@@ -1,4 +1,4 @@
-# springboot_basic_2
+# springboot jpa 2
 
 ### JPA
 ### RestController 추가
