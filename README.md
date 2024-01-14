@@ -1,4 +1,4 @@
-# edu9-1
+# springboot_basic_2
 
 ### JPA
 ### RestController 추가
