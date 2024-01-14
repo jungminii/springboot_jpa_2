@@ -1,8 +1,14 @@
 package com.kt.edu.firstproject.entity;
 
-import lombok.*;
+import jakarta.persistence.*;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.ToString;
 
-import javax.persistence.*;
+
+// import javax.persistence.*;  springboot 2.6.1
+
 
 @Entity
 @AllArgsConstructor
